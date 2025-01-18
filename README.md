@@ -16,28 +16,28 @@ I am a student pursuing a double degree in Business Administration (BBA) with a 
 ### Languages
 <p align="left">
   <a href="https://www.java.com/en/" target="_blank">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/></a>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50"/></a>
   <a href="https://www.python.org/" target="_blank">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/></a>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40"/></a>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="40" height="40"/></a>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50"/></a>
   <a href="https://www.mysql.com/" target="_blank">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/></a>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50"/></a>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" height="40"/></a>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50"/></a>
 </p>
 
 ---
 
 ### IDEs
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://www.eclipse.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="Eclipse" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="PyCharm" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ IDEA" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VS Code" width="50" height="50"/></a>
+  <a href="https://www.eclipse.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="Eclipse" width="50" height="50"/></a>
+  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" width="50" height="50"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="PyCharm" width="50" height="50"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ IDEA" width="50" height="50"/></a>
 </p>
 
 ---
@@ -52,7 +52,7 @@ I am a student pursuing a double degree in Business Administration (BBA) with a 
 
 ## <p align="center">Connect with Me</p>
 <p align="center">
-  <a href="https://github.com/NaeemHussainN" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/naeemhussain-" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" /></a>
-  <a href="mailto:n.hussainm.05@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="40" height="40" alt="Gmail" /></a>
+  <a href="https://github.com/NaeemHussainN" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/naeemhussain-" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" height="50" alt="LinkedIn" /></a>
+  <a href="mailto:n.hussainm.05@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="50" height="50" alt="Gmail" /></a>
 </p>

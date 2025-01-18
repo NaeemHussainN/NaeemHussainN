@@ -12,7 +12,7 @@ I am a student pursuing a double degree in Business Administration (BBA) with a 
   <strong>Languages</strong><br>
  ==============================
   
- <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" style="outline: none; text-decoration: none;" onfocus="this.blur();">
+ <a href="https://www.java.com/en/" target="_blank" style="outline: none; text-decoration: none;" onfocus="this.blur();">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50"/>
 </a>
 <a href="https://www.python.org/" target="_blank" style="outline: none; text-decoration: none;" onfocus="this.blur();">

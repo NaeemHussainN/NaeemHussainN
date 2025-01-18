@@ -6,8 +6,7 @@
 ---
 
 <p align="left" style="font-size:16px; line-height:22px;">
-I am a student pursuing a double degree in Business Administration (BBA) with a concentration in Finance and Computer Science, with a strong focus on quantitative analysis, algorithmic problem-solving, and financial engineering. With a deep interest in leveraging technology to address complex financial challenges, I am dedicated to honing the skills necessary for a successful career as a quant developer. Join me as I navigate the intersection of finance and technology, striving to deliver innovative and data-driven solutions.
-</p>
+I am a student pursuing a double degree in Business Administration (BBA) with a concentration in Finance and Computer Science, with a strong focus on quantitative analysis, algorithmic problem-solving, and financial engineering. 
 
 ---
 

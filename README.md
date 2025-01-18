@@ -13,6 +13,13 @@ I am a student pursuing a double degree in Business Administration (BBA) with a 
 ## My Tech Stack
 
 ### Languages
+<!-- If we don't want to use links. For ex: Clicking Java Icon takes you to java.com
+<p >
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,html" />
+      </a>
+</p>
+-->
 <p align="left">
   <a href="https://www.java.com/en/" target="_blank">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50"/></a>
@@ -27,6 +34,7 @@ I am a student pursuing a double degree in Business Administration (BBA) with a 
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50"/></a>
 </p>
+
 
 ---
 

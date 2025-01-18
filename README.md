@@ -42,7 +42,7 @@ I am a student pursuing a double degree in Business Administration (BBA) with a 
 
 ---
 
-## Stats
+## Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemHussainN&langs_count=8&hide_border=true&layout=compact&theme=radical" alt="Top Languages" />

@@ -51,7 +51,7 @@ I am a student pursuing a double degree in Business Administration (BBA) with a 
 
 ## Github Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemHussainN&langs_count=8&hide_border=true&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 

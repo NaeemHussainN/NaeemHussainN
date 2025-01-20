@@ -31,8 +31,6 @@ I am a student pursuing a double degree in Business Administration (BBA) with a 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50"/></a>
   <a href="https://www.mysql.com/" target="_blank">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50"/></a>
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50"/></a>
 </p>
 
 

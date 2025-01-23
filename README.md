@@ -6,7 +6,7 @@
 ---
 
 <p align="left" style="font-size:16px; line-height:22px;">
-I am a student pursuing a double degree in Business Administration (BBA) with a concentration in Finance and Computer Science, with a strong focus on quantitative analysis, algorithmic problem-solving, and financial engineering. 
+I am a student pursuing a double degree in Business Administration (BBA) with a concentration in Finance and Computer Science, with a strong interest in quantitative analysis, algorithmic problem-solving, and financial engineering. 
 
 ---
 

@@ -1,6 +1,6 @@
 # Naeem Hussain
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2000&pause=1000&color=0953F7&vCenter=true&width=435&lines=Aspiring+Quant+Developer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=0953F7&vCenter=true&width=600&lines=Bridging+Finance+and+Computer+Science)](https://git.io/typing-svg)
 
 
 ---
